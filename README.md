@@ -1,4 +1,4 @@
-# mechanical-arm-control-servo-motors
+# Mechanical Arm Control with Servo Motors
 
 This repository contains code for controlling a mechanical arm using servo motors, written in C++ for Arduino. The project demonstrates how to manage multiple servos to perform smooth and precise movements, including controlling a robotic gripper (claw).
 
